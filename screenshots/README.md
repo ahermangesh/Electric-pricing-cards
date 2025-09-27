@@ -3,9 +3,8 @@
 This directory contains preview images for the Electric Pricing Cards component.
 
 ## Files:
-- `demo.png` - Main demo screenshot showing all three pricing cards with electric border effect
-- `dark-theme.png` - Demo of pricing cards in dark theme
-- `light-theme.png` - Demo of pricing cards in light theme
+- `dark-theme.png` - Demo of pricing cards in dark theme with electric border effect
+- `light-theme.png` - Demo of pricing cards in light theme with electric border effect
 
 ## Adding Screenshots:
 1. Run the development server: `npm run dev`
