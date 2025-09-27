@@ -4,11 +4,24 @@ Stunning React pricing cards with animated electric borders that grab attention 
 
 ## 🎬 Live Preview
 
-![Electric Border Dark Mode](./screenshots/dark-theme.png)
-*Dark mode with cyan electric border*
+<div align="center">
+  
+### 🎥 [▶️ Watch Full Demo Video](./screenshots/demo.mp4)
+*Click to see the electric border animation in action!*
 
+</div>
+
+### Screenshots
+
+<div align="center">
+
+**Dark Theme**
+![Electric Border Dark Mode](./screenshots/dark-theme.png)
+
+**Light Theme**  
 ![Electric Border Light Mode](./screenshots/light-theme.png)
-*Light mode with indigo electric border*
+
+</div>
 
 ## ✨ Features
 
