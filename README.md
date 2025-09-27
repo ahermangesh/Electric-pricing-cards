@@ -6,8 +6,10 @@ Stunning React pricing cards with animated electric borders that grab attention 
 
 <div align="center">
   
-### 🎥 [▶️ Watch Full Demo Video](./screenshots/demo.mp4)
-*Click to see the electric border animation in action!*
+[![Electric Pricing Cards Demo](https://img.youtube.com/vi/nskn7jK86ho/maxresdefault.jpg)](https://youtu.be/nskn7jK86ho?si=FMC3A-6HAHC-_F_O)
+
+### 🎥 [▶️ Watch Full Demo on YouTube](https://youtu.be/nskn7jK86ho?si=FMC3A-6HAHC-_F_O)
+*Click the thumbnail above or link to see the electric border animation in action!*
 
 </div>
 
